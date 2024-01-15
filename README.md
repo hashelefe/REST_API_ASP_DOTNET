@@ -18,8 +18,13 @@ update-database
 ```
 
 # Opis 
+W projekcie użyto:
+- Microsoft Entity Framework Core
+- Microsoft Identity
+- MS EFC SQL Server
+- MS EFC SQL Tools
 
-Contact Entity Model
+## Contact Entity Model
 
 CKategoria - enum składający sie z 3 wyborów (nazewnictwo spowodowane konfliktem nazw)- Sluzbowy, Prywatny, Inny
 
